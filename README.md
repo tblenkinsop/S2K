@@ -1,4 +1,4 @@
-# S2Kv2
+# S2K
 Convert structural readings to kml files for display in Google Earth etc.
 Download the S2Kv2.xlsm excel spreadhseet with macro and the Symbols folder to convert your structural measurements into a kml file for display in Google Earth or other virutal globes. 
 Blenkinsop, T., 2012. Visualizing structural geology: From Excel to Google Earth. Comput. Geosci. 45, 52–56.
